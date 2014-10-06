@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>LINV's NOTEBOOK</title><link href="http://linw.github.io/" rel="alternate"></link><link href="http://linw.github.io/feeds/all.atom.xml" rel="self"></link><id>http://linw.github.io/</id><updated>2014-10-07T00:00:00+02:00</updated><entry><title>test</title><link href="http://linw.github.io/test.html" rel="alternate"></link><updated>2014-10-07T00:00:00+02:00</updated><author><name>linv</name></author><id>tag:linw.github.io,2014-10-07:test.html</id><summary type="html">&lt;h3&gt;测试&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;import&lt;/span&gt; &lt;span class="n"&gt;sys&lt;/span&gt;
+&lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;__name__&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;__main__&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;
+  &lt;span class="n"&gt;print&lt;/span&gt; &lt;span class="err"&gt;&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;Hello&lt;/span&gt; &lt;span class="n"&gt;World&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;看看问题&lt;/h3&gt;</summary><category term="test"></category></entry></feed>
