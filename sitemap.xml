@@ -5,30 +5,37 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/index.html</loc>
-<lastmod>2014-10-08T20:36:05-00:00</lastmod>
+<lastmod>2015-05-07T19:03:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2014-10-08T20:36:05-00:00</lastmod>
+<lastmod>2015-05-07T19:03:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2014-10-08T20:36:05-00:00</lastmod>
+<lastmod>2015-05-07T19:03:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2014-10-08T20:36:05-00:00</lastmod>
+<lastmod>2015-05-07T19:03:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>/pages/2015/05/07/2015newpost.html</loc>
+<lastmod>2015-05-07T19:10:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -54,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/sheng-huo.html</loc>
-<lastmod>2014-10-07T17:10:00+08:06</lastmod>
+<lastmod>2015-05-07T19:10:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,14 +75,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/sheng-huo.html</loc>
-<lastmod>2014-10-07T17:10:00+08:06</lastmod>
+<lastmod>2015-05-07T19:10:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/linv.html</loc>
-<lastmod>2014-10-07T17:10:00+08:06</lastmod>
+<lastmod>2015-05-07T19:10:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
